@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on this page
-- ⚡ Fun fact: this page it's not finished yet
-- 🤔 I’m looking for help with anyone to finish this page
+- ⚡ The fact is this page, it's not finished yet
 <!--
 **suandicreative/suandicreative** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
