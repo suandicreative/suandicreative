@@ -28,7 +28,7 @@ I'm a Software Engineer experienced in VB .NET, JavaScript, PHP for 5 years++
 - 🌱 I’m currently learning react and python
 - 👯 I’m looking to collaborate on any nice project
 
-| <a href="https://github.com/anuraghazra/suandicreative"><img align="center" src="https://github-readme-stats.vercel.app/api?username=suandicreative&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="justSUan's github stats" /></a> | <a href="https://github.com/anuraghazra/suandicreative"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suandicreative&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/suandicreative/suandicreative"><img align="center" src="https://github-readme-stats.vercel.app/api?username=suandicreative&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="justSUan's github stats" /></a> | <a href="https://github.com/suandicreative/suandicreative"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suandicreative&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 <!--
 **suandicreative/suandicreative** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
