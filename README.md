@@ -24,8 +24,6 @@ I'm a Software Engineer experienced in C#, VB .NET, JavaScript, PHP for 15 years
 <br />
 <br />
 
-- 🔭 I’m currently focus on FrontEnd Dev
-- 🌱 I’m currently learning react and python
 - 👯 I’m looking to collaborate on any nice project
 
 | <a href="https://github.com/suandicreative/suandicreative"><img align="center" src="https://github-readme-stats.vercel.app/api?username=suandicreative&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="justSUan's github stats" /></a> | <a href="https://github.com/suandicreative/suandicreative"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suandicreative&layout=compact&theme=buefy&hide_border=true" /></a> |
